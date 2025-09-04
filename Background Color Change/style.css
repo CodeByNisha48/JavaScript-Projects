@@ -1,0 +1,24 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: hotpink;
+}
+#select {
+    background-color:olivedrab;
+    border: 2px solid rgb(51, 50, 47);
+    height: auto;
+    width: 300px;
+    border-radius: 15px;
+    font-size: 16px;
+    font-weight: bold;
+}
+#select:hover{
+   background-color: rgb(98, 124, 46);
+   
+}
+h1 {
+    font-size: 50px;
+    font-weight: bold;
+}
